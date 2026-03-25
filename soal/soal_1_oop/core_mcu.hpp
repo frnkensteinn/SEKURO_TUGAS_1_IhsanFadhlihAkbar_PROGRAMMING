@@ -3,7 +3,12 @@
 /*[TODO]: Implementasikanlah class berikut didalam file core_mcu.cpp agar main.cpp dapat dijalankan */
 class Core_MCU{
 private:
-    //[TODO]: Buatlah atribute atribute dalam class ini
+    //[TODO]: Buatlah atribute atribute dalam class ini    
+    int memory;
+    float cpu_speed;
+    int volt;
+    std::string os;
+    std::string nama;
 public:
     Core_MCU(float cpu_speed,int memory,std::string os,std::string nama,int volt);
     void showSpek();

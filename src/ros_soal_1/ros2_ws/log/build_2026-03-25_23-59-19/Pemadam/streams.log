@@ -1,0 +1,66 @@
+[0.231s] Invoking command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/src/Pemadam -DCMAKE_INSTALL_PREFIX=/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam
+[0.496s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.017s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[1.488s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.495s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.516s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.553s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.591s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.690s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.701s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[15.847s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[15.969s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[16.127s] WARNING: Package name "Pemadam" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[17.172s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[17.174s] -- Configured cppcheck include dirs: 
+[17.175s] -- Configured cppcheck exclude dirs and/or files: 
+[17.432s] -- Added test 'lint_cmake' to check CMake code style
+[18.173s] -- Added test 'uncrustify' to check C / C++ code style
+[18.175s] -- Configured uncrustify additional arguments: 
+[18.267s] -- Added test 'xmllint' to check XML markup files
+[18.417s] -- Configuring done
+[19.213s] -- Generating done
+[19.701s] -- Build files have been written to: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam
+[19.723s] Invoked command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/src/Pemadam -DCMAKE_INSTALL_PREFIX=/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam
+[19.749s] Invoking command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam -- -j12 -l12
+[19.787s] gmake: Warning: File 'Makefile' has modification time 0.4 s in the future
+[19.986s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 0.39 s in the future
+[20.018s] gmake[2]: Warning: File 'CMakeFiles/fire_detector_node.dir/flags.make' has modification time 0.052 s in the future
+[20.019s] gmake[2]: Warning: File 'CMakeFiles/fire_truck_node.dir/flags.make' has modification time 0.15 s in the future
+[20.062s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[20.066s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[20.095s] gmake[2]: Warning: File 'CMakeFiles/fire_truck_node.dir/flags.make' has modification time 0.077 s in the future
+[20.097s] gmake[2]: Warning: File 'CMakeFiles/fire_detector_node.dir/progress.make' has modification time 0.22 s in the future
+[20.146s] [ 50%] [32mBuilding CXX object CMakeFiles/fire_truck_node.dir/src/mobil_pemadam.cpp.o[0m
+[20.149s] [ 50%] [32mBuilding CXX object CMakeFiles/fire_detector_node.dir/src/pendeteksi_api.cpp.o[0m
+[28.916s] [ 75%] [32m[1mLinking CXX executable fire_detector_node[0m
+[30.493s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[30.517s] [ 75%] Built target fire_detector_node
+[33.660s] [100%] [32m[1mLinking CXX executable fire_truck_node[0m
+[37.342s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[37.373s] [100%] Built target fire_truck_node
+[37.375s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[37.423s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[37.428s] Invoked command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam -- -j12 -l12
+[37.472s] Invoking command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam
+[37.488s] -- Install configuration: ""
+[37.512s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_detector_node
+[37.709s] -- Set runtime path of "/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_detector_node" to ""
+[37.731s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_truck_node
+[38.060s] -- Set runtime path of "/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_truck_node" to ""
+[38.107s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/package_run_dependencies/Pemadam
+[38.222s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/parent_prefix_path/Pemadam
+[38.322s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/ament_prefix_path.sh
+[38.392s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/ament_prefix_path.dsv
+[38.455s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/path.sh
+[38.518s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/path.dsv
+[38.588s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.bash
+[38.652s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.sh
+[38.713s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.zsh
+[38.771s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.dsv
+[38.832s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/package.dsv
+[39.038s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/packages/Pemadam
+[39.137s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/cmake/PemadamConfig.cmake
+[39.206s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/cmake/PemadamConfig-version.cmake
+[39.288s] -- Installing: /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/package.xml
+[39.358s] Invoked command in '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam

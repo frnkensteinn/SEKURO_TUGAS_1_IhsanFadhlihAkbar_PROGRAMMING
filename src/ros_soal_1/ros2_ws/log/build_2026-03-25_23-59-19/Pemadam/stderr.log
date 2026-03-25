@@ -1,0 +1,13 @@
+WARNING: Package name "Pemadam" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+gmake: Warning: File 'Makefile' has modification time 0.4 s in the future
+gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 0.39 s in the future
+gmake[2]: Warning: File 'CMakeFiles/fire_detector_node.dir/flags.make' has modification time 0.052 s in the future
+gmake[2]: Warning: File 'CMakeFiles/fire_truck_node.dir/flags.make' has modification time 0.15 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'CMakeFiles/fire_truck_node.dir/flags.make' has modification time 0.077 s in the future
+gmake[2]: Warning: File 'CMakeFiles/fire_detector_node.dir/progress.make' has modification time 0.22 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake: warning:  Clock skew detected.  Your build may be incomplete.

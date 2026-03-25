@@ -1,0 +1,8 @@
+source;share/Pemadam/hook/cmake_prefix_path.ps1
+source;share/Pemadam/hook/cmake_prefix_path.dsv
+source;share/Pemadam/hook/cmake_prefix_path.sh
+source;share/Pemadam/local_setup.bash
+source;share/Pemadam/local_setup.dsv
+source;share/Pemadam/local_setup.ps1
+source;share/Pemadam/local_setup.sh
+source;share/Pemadam/local_setup.zsh

@@ -1,0 +1,248 @@
+[0.000000] (-) TimerEvent: {}
+[0.000741] (Pemadam) JobQueued: {'identifier': 'Pemadam', 'dependencies': OrderedDict()}
+[0.001376] (Pemadam) JobStarted: {'identifier': 'Pemadam'}
+[0.062140] (Pemadam) JobProgress: {'identifier': 'Pemadam', 'progress': 'cmake'}
+[0.097177] (-) TimerEvent: {}
+[0.127588] (Pemadam) Command: {'cmd': ['/usr/bin/cmake', '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/src/Pemadam', '-DCMAKE_INSTALL_PREFIX=/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam'], 'cwd': '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'stein'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/stein'), ('OLDPWD', '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/src/Pemadam'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'stein'), ('NAME', 'S0NGOKU'), ('WSL_INTEROP', '/run/WSL/329_interop'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/PowerShell/7:/mnt/c/Users/fdhli/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/mnt/c/Users/fdhli/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/mnt/c/Users/fdhli/AppData/Local/Programs/Microsoft VS Code:/mnt/c/msys64/ucrt64/bin:/mnt/c/Program Files/PowerShell/7/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/PowerShell/7/:/mnt/c/Users/fdhli/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/fdhli/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files (x86)/Nmap:/mnt/c/OpenSSL-Win64/bin:/mnt/c/Users/fdhli/AppData/Local/Microsoft/WinGet/Links:/mnt/c/Users/fdhli/AppData/Roaming/npm:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('WSLENV', ''), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.197359] (-) TimerEvent: {}
+[0.301402] (-) TimerEvent: {}
+[0.403805] (-) TimerEvent: {}
+[0.509000] (-) TimerEvent: {}
+[0.614439] (-) TimerEvent: {}
+[0.715570] (-) TimerEvent: {}
+[0.819874] (-) TimerEvent: {}
+[0.921052] (-) TimerEvent: {}
+[1.025378] (-) TimerEvent: {}
+[1.126248] (-) TimerEvent: {}
+[1.129416] (Pemadam) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[1.229593] (-) TimerEvent: {}
+[1.333833] (-) TimerEvent: {}
+[1.438400] (-) TimerEvent: {}
+[1.542784] (-) TimerEvent: {}
+[1.647573] (-) TimerEvent: {}
+[1.751907] (-) TimerEvent: {}
+[1.856560] (-) TimerEvent: {}
+[1.961325] (-) TimerEvent: {}
+[2.065924] (-) TimerEvent: {}
+[2.171278] (-) TimerEvent: {}
+[2.276586] (-) TimerEvent: {}
+[2.381137] (-) TimerEvent: {}
+[2.549901] (-) TimerEvent: {}
+[2.655105] (-) TimerEvent: {}
+[2.759743] (-) TimerEvent: {}
+[2.858837] (Pemadam) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[2.860509] (-) TimerEvent: {}
+[2.965115] (-) TimerEvent: {}
+[3.069093] (-) TimerEvent: {}
+[3.173496] (-) TimerEvent: {}
+[3.278203] (-) TimerEvent: {}
+[3.383043] (-) TimerEvent: {}
+[3.487483] (-) TimerEvent: {}
+[3.591949] (-) TimerEvent: {}
+[3.696659] (-) TimerEvent: {}
+[3.801211] (-) TimerEvent: {}
+[3.806117] (Pemadam) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[3.904631] (-) TimerEvent: {}
+[4.012714] (-) TimerEvent: {}
+[4.114253] (-) TimerEvent: {}
+[4.215233] (-) TimerEvent: {}
+[4.316211] (-) TimerEvent: {}
+[4.419761] (-) TimerEvent: {}
+[4.523832] (-) TimerEvent: {}
+[4.625599] (-) TimerEvent: {}
+[4.728495] (-) TimerEvent: {}
+[4.783344] (Pemadam) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[4.813595] (Pemadam) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[4.814864] (Pemadam) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[4.815852] (Pemadam) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[4.828885] (-) TimerEvent: {}
+[4.878286] (Pemadam) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[4.931388] (-) TimerEvent: {}
+[5.036704] (-) TimerEvent: {}
+[5.137531] (-) TimerEvent: {}
+[5.238490] (-) TimerEvent: {}
+[5.342038] (-) TimerEvent: {}
+[5.442923] (-) TimerEvent: {}
+[5.547173] (-) TimerEvent: {}
+[5.643240] (Pemadam) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[5.647340] (-) TimerEvent: {}
+[5.674719] (Pemadam) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[5.676199] (Pemadam) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[5.677599] (Pemadam) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[5.748989] (Pemadam) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[5.750370] (-) TimerEvent: {}
+[5.854753] (-) TimerEvent: {}
+[5.945667] (Pemadam) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[5.954967] (-) TimerEvent: {}
+[6.059165] (-) TimerEvent: {}
+[6.164337] (-) TimerEvent: {}
+[6.203292] (Pemadam) StdoutLine: {'line': b'-- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[6.266460] (-) TimerEvent: {}
+[6.370832] (-) TimerEvent: {}
+[6.462167] (Pemadam) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[6.471037] (-) TimerEvent: {}
+[6.471585] (Pemadam) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[6.489397] (Pemadam) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[6.518154] (Pemadam) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[6.546070] (Pemadam) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[6.571297] (-) TimerEvent: {}
+[6.620940] (Pemadam) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[6.626982] (Pemadam) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[6.672284] (-) TimerEvent: {}
+[6.777695] (-) TimerEvent: {}
+[6.882010] (-) TimerEvent: {}
+[6.985919] (-) TimerEvent: {}
+[7.090241] (-) TimerEvent: {}
+[7.194465] (-) TimerEvent: {}
+[7.299255] (-) TimerEvent: {}
+[7.403832] (-) TimerEvent: {}
+[7.508433] (-) TimerEvent: {}
+[7.612819] (-) TimerEvent: {}
+[7.717354] (-) TimerEvent: {}
+[7.822004] (-) TimerEvent: {}
+[7.926570] (-) TimerEvent: {}
+[8.030292] (-) TimerEvent: {}
+[8.131045] (-) TimerEvent: {}
+[8.234560] (-) TimerEvent: {}
+[8.339196] (-) TimerEvent: {}
+[8.443588] (-) TimerEvent: {}
+[8.546410] (-) TimerEvent: {}
+[8.647205] (-) TimerEvent: {}
+[8.647994] (Pemadam) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[8.750403] (-) TimerEvent: {}
+[8.854298] (-) TimerEvent: {}
+[8.958927] (-) TimerEvent: {}
+[9.063597] (-) TimerEvent: {}
+[9.168445] (-) TimerEvent: {}
+[9.272267] (-) TimerEvent: {}
+[9.377148] (-) TimerEvent: {}
+[9.482556] (-) TimerEvent: {}
+[9.586977] (-) TimerEvent: {}
+[9.690676] (-) TimerEvent: {}
+[9.794977] (-) TimerEvent: {}
+[9.899070] (-) TimerEvent: {}
+[10.003297] (-) TimerEvent: {}
+[10.107632] (-) TimerEvent: {}
+[10.211719] (-) TimerEvent: {}
+[10.315978] (-) TimerEvent: {}
+[10.420713] (-) TimerEvent: {}
+[10.524129] (-) TimerEvent: {}
+[10.628501] (-) TimerEvent: {}
+[10.732238] (-) TimerEvent: {}
+[10.793981] (Pemadam) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[10.833388] (-) TimerEvent: {}
+[10.937568] (-) TimerEvent: {}
+[11.041849] (-) TimerEvent: {}
+[11.146194] (-) TimerEvent: {}
+[11.250040] (-) TimerEvent: {}
+[11.350973] (-) TimerEvent: {}
+[11.451999] (-) TimerEvent: {}
+[11.552909] (-) TimerEvent: {}
+[11.653743] (-) TimerEvent: {}
+[11.754469] (-) TimerEvent: {}
+[11.855286] (-) TimerEvent: {}
+[11.956115] (-) TimerEvent: {}
+[12.057020] (-) TimerEvent: {}
+[12.160689] (-) TimerEvent: {}
+[12.264330] (-) TimerEvent: {}
+[12.368539] (-) TimerEvent: {}
+[12.473453] (-) TimerEvent: {}
+[12.574313] (-) TimerEvent: {}
+[12.675170] (-) TimerEvent: {}
+[12.776167] (-) TimerEvent: {}
+[12.877171] (-) TimerEvent: {}
+[12.980743] (-) TimerEvent: {}
+[13.085072] (-) TimerEvent: {}
+[13.189170] (-) TimerEvent: {}
+[13.293231] (-) TimerEvent: {}
+[13.397313] (-) TimerEvent: {}
+[13.501063] (-) TimerEvent: {}
+[13.605171] (-) TimerEvent: {}
+[13.728383] (-) TimerEvent: {}
+[13.832331] (-) TimerEvent: {}
+[13.936324] (-) TimerEvent: {}
+[14.040636] (-) TimerEvent: {}
+[14.144868] (-) TimerEvent: {}
+[14.245574] (-) TimerEvent: {}
+[14.349422] (-) TimerEvent: {}
+[14.449952] (Pemadam) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[14.451094] (-) TimerEvent: {}
+[14.510773] (Pemadam) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[14.552982] (-) TimerEvent: {}
+[14.657900] (-) TimerEvent: {}
+[14.758644] (-) TimerEvent: {}
+[14.859732] (-) TimerEvent: {}
+[14.962842] (-) TimerEvent: {}
+[15.067006] (-) TimerEvent: {}
+[15.168308] (-) TimerEvent: {}
+[15.273173] (-) TimerEvent: {}
+[15.303521] (Pemadam) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[15.325865] (Pemadam) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[15.375302] (-) TimerEvent: {}
+[15.479609] (-) TimerEvent: {}
+[15.580470] (-) TimerEvent: {}
+[15.681291] (-) TimerEvent: {}
+[15.781981] (-) TimerEvent: {}
+[15.882760] (-) TimerEvent: {}
+[15.983782] (-) TimerEvent: {}
+[16.079670] (Pemadam) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[16.084004] (-) TimerEvent: {}
+[16.087260] (Pemadam) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[16.170298] (Pemadam) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[16.184307] (-) TimerEvent: {}
+[16.285342] (-) TimerEvent: {}
+[16.335838] (Pemadam) StderrLine: {'line': b'WARNING: Package name "Pemadam" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.\n'}
+[16.385677] (-) TimerEvent: {}
+[16.486339] (-) TimerEvent: {}
+[16.587543] (-) TimerEvent: {}
+[16.688407] (-) TimerEvent: {}
+[16.789222] (-) TimerEvent: {}
+[16.894139] (-) TimerEvent: {}
+[16.955512] (Pemadam) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[16.956824] (Pemadam) StdoutLine: {'line': b'-- Configured cppcheck include dirs: \n'}
+[16.957941] (Pemadam) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[16.995159] (-) TimerEvent: {}
+[17.086367] (Pemadam) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[17.095620] (-) TimerEvent: {}
+[17.200508] (-) TimerEvent: {}
+[17.305416] (-) TimerEvent: {}
+[17.410304] (-) TimerEvent: {}
+[17.437921] (Pemadam) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[17.439304] (Pemadam) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[17.478372] (Pemadam) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[17.511223] (-) TimerEvent: {}
+[17.605193] (Pemadam) StdoutLine: {'line': b'-- Configuring done\n'}
+[17.612982] (-) TimerEvent: {}
+[17.717785] (-) TimerEvent: {}
+[17.718372] (Pemadam) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:25 (add_executable):\n'}
+[17.719482] (Pemadam) StderrLine: {'line': b'  Cannot find source file:\n'}
+[17.720513] (Pemadam) StderrLine: {'line': b'\n'}
+[17.721498] (Pemadam) StderrLine: {'line': b'    src/fire_detector.cpp\n'}
+[17.722425] (Pemadam) StderrLine: {'line': b'\n'}
+[17.723613] (Pemadam) StderrLine: {'line': b'  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h\n'}
+[17.724548] (Pemadam) StderrLine: {'line': b'  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc\n'}
+[17.725518] (Pemadam) StderrLine: {'line': b'\n'}
+[17.726469] (Pemadam) StderrLine: {'line': b'\x1b[0m\n'}
+[17.778909] (Pemadam) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:28 (add_executable):\n'}
+[17.780110] (Pemadam) StderrLine: {'line': b'  Cannot find source file:\n'}
+[17.781151] (Pemadam) StderrLine: {'line': b'\n'}
+[17.782030] (Pemadam) StderrLine: {'line': b'    src/fire_truck.cpp\n'}
+[17.782915] (Pemadam) StderrLine: {'line': b'\n'}
+[17.783717] (Pemadam) StderrLine: {'line': b'  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h\n'}
+[17.784507] (Pemadam) StderrLine: {'line': b'  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc\n'}
+[17.785358] (Pemadam) StderrLine: {'line': b'\n'}
+[17.786210] (Pemadam) StderrLine: {'line': b'\x1b[0m\n'}
+[17.787068] (Pemadam) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:25 (add_executable):\n'}
+[17.788287] (Pemadam) StderrLine: {'line': b'  No SOURCES given to target: fire_detector_node\n'}
+[17.789195] (Pemadam) StderrLine: {'line': b'\n'}
+[17.790051] (Pemadam) StderrLine: {'line': b'\x1b[0m\n'}
+[17.790941] (Pemadam) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:28 (add_executable):\n'}
+[17.791805] (Pemadam) StderrLine: {'line': b'  No SOURCES given to target: fire_truck_node\n'}
+[17.792710] (Pemadam) StderrLine: {'line': b'\n'}
+[17.793593] (Pemadam) StderrLine: {'line': b'\x1b[0m\n'}
+[17.794440] (Pemadam) StderrLine: {'line': b'\x1b[0mCMake Generate step failed.  Build files cannot be regenerated correctly.\x1b[0m\n'}
+[17.798026] (Pemadam) CommandEnded: {'returncode': 1}
+[17.817929] (-) TimerEvent: {}
+[17.919481] (-) TimerEvent: {}
+[17.961804] (Pemadam) JobEnded: {'identifier': 'Pemadam', 'rc': 1}
+[17.983848] (-) EventReactorShutdown: {}

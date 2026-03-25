@@ -1,0 +1,17 @@
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_detector_node
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/lib/Pemadam/fire_truck_node
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/package_run_dependencies/Pemadam
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/parent_prefix_path/Pemadam
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/ament_prefix_path.sh
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/ament_prefix_path.dsv
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/path.sh
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/environment/path.dsv
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.bash
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.sh
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.zsh
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/local_setup.dsv
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/package.dsv
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/ament_index/resource_index/packages/Pemadam
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/cmake/PemadamConfig.cmake
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/cmake/PemadamConfig-version.cmake
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/install/Pemadam/share/Pemadam/package.xml

@@ -1,0 +1,11 @@
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/uninstall.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/Pemadam_uninstall.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/fire_detector_node.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/fire_truck_node.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/test.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/edit_cache.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/rebuild_cache.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/list_install_components.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/install.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/install/local.dir
+/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam/CMakeFiles/install/strip.dir

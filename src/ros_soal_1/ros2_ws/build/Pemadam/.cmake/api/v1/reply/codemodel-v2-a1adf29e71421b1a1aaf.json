@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-238c3eb8299a51df0653.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pemadam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pemadam_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pemadam_uninstall-cbd5316f5dcc6f1a6e58.json",
+					"name" : "Pemadam_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fire_detector_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fire_detector_node-fb5b4a23565684d8c97b.json",
+					"name" : "fire_detector_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fire_truck_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fire_truck_node-aa4123cb41d658e7250a.json",
+					"name" : "fire_truck_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ef6390ff6af622381182.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/build/Pemadam",
+		"source" : "/mnt/d/ITB/SEMESTER 2/Project/SEKURO/SEKURO_TUGAS_1_IhsanFadhlihAkbar_PROGRAMMING/src/ros_soal_1/ros2_ws/src/Pemadam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

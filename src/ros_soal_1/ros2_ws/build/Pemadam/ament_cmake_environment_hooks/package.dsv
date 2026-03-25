@@ -1,0 +1,4 @@
+source;share/Pemadam/local_setup.bash
+source;share/Pemadam/local_setup.dsv
+source;share/Pemadam/local_setup.sh
+source;share/Pemadam/local_setup.zsh
